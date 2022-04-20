@@ -3,6 +3,10 @@ A web based platform where both service providers (like mechanics, electricians,
 
 SAMPLE IMAGES
 
+Image-0
+
+![Screenshot from 2022-04-20 23-57-48](https://user-images.githubusercontent.com/71956692/164300978-57f4469e-a5ea-4943-beca-37f7abcf8f25.png)
+
 Image-1
 ![Screenshot from 2022-04-21 00-01-09](https://user-images.githubusercontent.com/71956692/164299256-d88de469-bc17-4761-af84-ba58eac22b2a.png)
 
